@@ -1,0 +1,22 @@
+server:
+  port: 9000
+
+spring:
+  application:
+    name: Zuul
+
+#zuul:
+#  ignoredServices: '*'
+
+zuul:
+  routes:
+    emitirNfe:
+      path: /nfe/emitir/**
+      serviceId: NOTAFISCAL
+      stripPrefix: false
+      sensitiveHeaders: Cookie,Set-Cookie
+    consultarNfe:
+      path: /nfe/consultar/**
+      serviceId: NOTAFISCAL
+      stripPrefix: false
+      sensitiveHeaders: Cookie,Set-Cookie

@@ -1,0 +1,34 @@
+[Fri Jun 26 13:58:09 BRT 2020] [Emissão]: 45997418000153 caba de pedir a emissão de uma NF no valor de R$ 1000,00!
+[Fri Jun 26 13:59:11 BRT 2020] [Consulta]: 45997418000153 acaba de pedir os dados das suas notas fiscais.
+[Fri Jun 26 14:04:19 BRT 2020] [Consulta]: 45997418000153 acaba de pedir os dados das suas notas fiscais.
+[Fri Jun 26 14:07:14 BRT 2020] [Consulta]: 45997418000153 acaba de pedir os dados das suas notas fiscais.
+[Fri Jun 26 14:07:51 BRT 2020] [Consulta]: 45997418000152 acaba de pedir os dados das suas notas fiscais.
+[Fri Jun 26 14:07:58 BRT 2020] [Consulta]: 45997418000153 acaba de pedir os dados das suas notas fiscais.
+[Fri Jun 26 14:10:57 BRT 2020] [Consulta]: 45997418000153 acaba de pedir os dados das suas notas fiscais.
+[Fri Jun 26 14:24:34 BRT 2020] [Emissão]: 45997418000153 acaba de pedir a emissão de uma NF no valor de R$ 1000.00!
+[Fri Jun 26 14:24:45 BRT 2020] [Consulta]: 45997418000153 acaba de pedir os dados das suas notas fiscais.
+[Fri Jun 26 14:26:34 BRT 2020] [Consulta]: 45997418000153 acaba de pedir os dados das suas notas fiscais.
+[Fri Jun 26 14:28:28 BRT 2020] [Consulta]: 45997418000153 acaba de pedir os dados das suas notas fiscais.
+[Fri Jun 26 14:29:30 BRT 2020] [Consulta]: 45997418000153 acaba de pedir os dados das suas notas fiscais.
+[Fri Jun 26 14:29:37 BRT 2020] [Consulta]: 45997418000153 acaba de pedir os dados das suas notas fiscais.
+[2020-06-26T14:41:50Z    ] [Consulta]: 45997418000153 acaba de pedir os dados das suas notas fiscais.
+[2020-06-26T14:41:57Z    ] [Consulta]: 45997418000153 acaba de pedir os dados das suas notas fiscais.
+[2020-06-26T14:43:57Z][Consulta]: 45997418000153 acaba de pedir os dados das suas notas fiscais.
+[2020-06-26T14:44:03Z][Consulta]: 45997418000153 acaba de pedir os dados das suas notas fiscais.
+[2020-06-26T14:59:32Z][Consulta]: 45997418000153 acaba de pedir os dados das suas notas fiscais.
+[2020-06-26T16:45:40Z][Consulta]: 45997418000153 acaba de pedir os dados das suas notas fiscais.
+[2020-06-26T16:46:54Z][Emissão]: 45997418000153 acaba de pedir a emissão de uma NF no valor de R$ 1000.00!
+[2020-06-26T17:05:04Z][Consulta]: 45997418000153 acaba de pedir os dados das suas notas fiscais.
+[2020-06-26T17:08:16Z][Emissão]: 45997418000153 acaba de pedir a emissão de uma NF no valor de R$ 1500.00!
+[2020-06-26T17:08:21Z][Consulta]: 45997418000153 acaba de pedir os dados das suas notas fiscais.
+[2020-06-26T17:12:39Z][Consulta]: 45997418000153 acaba de pedir os dados das suas notas fiscais.
+[2020-06-26T17:18:19Z][Consulta]: 45997418000153 acaba de pedir os dados das suas notas fiscais.
+[2020-06-26T17:45:52Z][Consulta]: 45997418000153 acaba de pedir os dados das suas notas fiscais.
+[2020-06-26T17:46:44Z][Consulta]: 45997418000153 acaba de pedir os dados das suas notas fiscais.
+[2020-06-26T17:48:58Z][Consulta]: 45997418000153 acaba de pedir os dados das suas notas fiscais.
+[2020-06-26T17:49:09Z][Consulta]: 4599741800015 acaba de pedir os dados das suas notas fiscais.
+[2020-06-26T17:49:15Z][Consulta]: 45997418000153 acaba de pedir os dados das suas notas fiscais.
+[2020-06-26T17:50:23Z][Emissão]: 45997418000153 acaba de pedir a emissão de uma NF no valor de R$ 2000.00!
+[2020-06-26T17:50:28Z][Emissão]: 45997418000153 acaba de pedir a emissão de uma NF no valor de R$ 2000.00!
+[2020-06-26T17:50:35Z][Consulta]: 45997418000153 acaba de pedir os dados das suas notas fiscais.
+[2020-06-26T17:50:47Z][Consulta]: 45997418000153 acaba de pedir os dados das suas notas fiscais.
